@@ -21,13 +21,13 @@ button {
 .increment {
   background-color: aquamarine;
   cursor: pointer;
-  font-size: large;
+  font-size: xx-large;
 }
 
 #save-btn {
   background-color: darkgreen;
   cursor: pointer;
-  font-size: large;
+  font-size: xx-large;
 }
 
 @media (min-width: 1000px) {
