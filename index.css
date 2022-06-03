@@ -30,6 +30,12 @@ button {
   font-size: xx-large;
 }
 
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
 @media (min-width: 1000px) {
   .counter {
     position: absolute;
