@@ -20,11 +20,14 @@ button {
 
 .increment {
   background-color: aquamarine;
+  cursor: pointer;
 }
 
 #save-btn {
   background-color: darkgreen;
+  cursor: pointer;
 }
+
 @media (min-width: 1000px) {
   .counter {
     position: absolute;
