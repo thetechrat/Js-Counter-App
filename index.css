@@ -21,13 +21,11 @@ button {
 .increment {
   background-color: aquamarine;
   cursor: pointer;
-  font-size: xx-large;
 }
 
 #save-btn {
   background-color: darkgreen;
   cursor: pointer;
-  font-size: xx-large;
 }
 
 footer {
@@ -98,12 +96,14 @@ footer {
     background-color: aquamarine;
     height: 80px;
     width: 100%;
+    font-size: xx-large;
   }
 
   #save-btn {
     background-color: darkgreen;
     height: 80px;
     width: 100%;
+    font-size: xx-large;
   }
 
   #welcome-el {
